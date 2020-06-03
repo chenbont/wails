@@ -2,6 +2,7 @@
    <img src="logo_cropped.png" width="40%"><br/>
 </p>
 <p align="center">
+    晨邦修改版
    A framework for building desktop applications using Go & Web Technologies.<br/><br/>
    <a href="https://github.com/wailsapp/wails/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
    <a href="https://goreportcard.com/report/github.com/wailsapp/wails"><img src="https://goreportcard.com/badge/github.com/wailsapp/wails"/></a>
